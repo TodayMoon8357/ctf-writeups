@@ -1,8 +1,8 @@
 # **Challenge:** Abnormal Maybe Illegal
 
-**Description:** We have recently discovered tons of traffic leaving our network. We have reason to believe they are using an abnormal method. Can you figure out what data they are exfiltrating?
-**Hint 1:** TCP packets are constructed in a way, where certain combinations are possible/(legal) and others should raise alerts/(illegal).
-**Hint 2:** Now that you found the illegal packets, think more black and white.
+**Description:** We have recently discovered tons of traffic leaving our network. We have reason to believe they are using an abnormal method. Can you figure out what data they are exfiltrating?\
+**Hint 1:** TCP packets are constructed in a way, where certain combinations are possible/(legal) and others should raise alerts/(illegal).\
+**Hint 2:** Now that you found the illegal packets, think more black and white.\
 **Attachments:** abnormal_illegal.pcapng
 
 **Note:** This challenge was shared with me by a close friend of mine.
